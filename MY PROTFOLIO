@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css"
+    />
+  </head>
+  <body>
+    <h1 class="mt-12 mb-8 fa fa-align-center">
+      MADIHA TARIQ -COFFEE MATTERS
+      </h1>
+      
+      <div class="flex flex-wrap gap-5 justify-center max-w-5xl mx-auto px-6">
+        <a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/a.jpg">
+          <img class="rounded" src="file:///E:/3rd/New%20folder/1.jpg" />
+        </a>
+        <a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/b.jpg">
+          <img class="rounded" src="file:///E:/3rd/New%20folder/2.jpg" />
+        </a>
+        <a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/INTRO.jpg">
+          <img class="rounded" src="file:///E:/3rd/New%20folder/3.jpg" />
+        </a>
+        <a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/c.jpg">
+          <img class="rounded" src="file:///E:/3rd/New%20folder/4.jpg" />
+        </a>
+        <a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/d.jpg">
+          <img class="rounded" src="file:///E:/3rd/New%20folder/5.jpg" />
+        </a>
+        <a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/e.jpg">
+          <img class="rounded" src="file:///E:/3rd/New%20folder/6.jpg" />
+        </a>
+        <a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/f.jpg">
+          <img class="rounded" src="file:///E:/3rd/New%20folder/7.jpg" />
+        </a>
+        <a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/g.jpg">
+          <img class="rounded" src="file:///E:/3rd/New%20folder/8.jpg" />
+        </a>
+        <a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/h.jpg">
+          <img class="rounded" src="file:///E:/3rd/New%20folder/9.jpg" />
+        </a>
+        <a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/i.jpg">
+          <img class="rounded" src="file:///E:/3rd/New%20folder/10.jpg" />
+        </a>
+        <a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/j.jpg">
+          <img class="rounded" src="file:///E:/3rd/New%20folder/11.jpg" />
+        </a>
+        <a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/k.jpg">
+          <img class="rounded" src="file:///E:/3rd/New%20folder/12.jpg" />
+        </a>
+    </a>
+    <a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/l.jpg">
+      <img class="rounded" src="file:///E:/3rd/New%20folder/13.jpg" />
+    </a>
+</a>
+<a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/m.jpg">
+  <img class="rounded" src="file:///E:/3rd/New%20folder/14.jpg" />
+</a>
+</a>
+<a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/n.jpg">
+  <img class="rounded" src="file:///E:/3rd/New%20folder/15.jpg" />
+</a>
+</a>
+<a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/o.jpg">
+  <img class="rounded" src="file:///E:/3rd/New%20folder/16.jpg" />
+</a>
+</a>
+<a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/p.jpg">
+  <img class="rounded" src="file:///E:/3rd/New%20folder/17.jpg" />
+</a>
+</a>
+<a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/q.jpg">
+  <img class="rounded" src="file:///E:/3rd/New%20folder/18.jpg" />
+</a>
+</a>
+<a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/r.jpg">
+  <img class="rounded" src="file:///E:/3rd/New%20folder/19.jpg" />
+</a>
+</a>
+<a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/s.jpg">
+  <img class="rounded" src="file:///E:/3rd/New%20folder/20.jpg" />
+</a>
+</a>
+<a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/t.jpg">
+  <img class="rounded" src="file:///E:/3rd/New%20folder/21.jpg" />
+</a>
+</a>
+<a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/u.jpg">
+  <img class="rounded" src="file:///E:/3rd/New%20folder/22.jpg" />
+</a>
+</a>
+<a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/v.jpg">
+  <img class="rounded" src="file:///E:/3rd/New%20folder/23.jpg" />
+</a>
+</a>
+<a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/w.jpg">
+  <img class="rounded" src="file:///E:/3rd/New%20folder/24.jpg" />
+</a>
+</a>
+<a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/x.jpg">
+  <img class="rounded" src="file:///E:/3rd/New%20folder/25.jpg" />
+</a>
+</a>
+<a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/bunting.jpg">
+  <img class="rounded" src="file:///E:/3rd/New%20folder/26.jpg" />
+</a>
+</a>
+<a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/y.jpg">
+  <img class="rounded" src="file:///E:/3rd/New%20folder/27.jpg" />
+</a>
+</a>
+<a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/z.jpg">
+  <img class="rounded" src="file:///E:/3rd/New%20folder/28.jpg" />
+</a>
+</a>
+<a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/zz.jpg">
+  <img class="rounded" src="file:///E:/3rd/New%20folder/29.jpg" />
+</a>
+</a>
+<a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/zz1.jpg">
+  <img class="rounded" src="file:///E:/3rd/New%20folder/30.jpg" />
+</a>
+</a>
+<a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/zz2.jpg">
+  <img class="rounded" src="file:///E:/3rd/New%20folder/31.jpg" />
+</a>
+</a>
+<a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/zz3.jpg">
+  <img class="rounded" src="file:///E:/3rd/New%20folder/32.jpg" />
+</a>
+</a>
+<a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/zz4.jpg">
+  <img class="rounded" src="file:///E:/3rd/New%20folder/33.jpg" />
+</a>
+</a>
+<a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/zz5.jpg">
+  <img class="rounded" src="file:///E:/3rd/New%20folder/34.jpg" />
+</a>
+</a>
+<a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/zz6.jpg">
+  <img class="rounded" src="file:///E:/3rd/New%20folder/35.jpg" />
+</a>
+</a>
+<a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/zz7.jpg">
+  <img class="rounded" src="file:///E:/3rd/New%20folder/36.jpg" />
+</a>
+</a>
+<a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/zz8.jpg">
+  <img class="rounded" src="file:///E:/3rd/New%20folder/37.jpg" />
+</a>
+</a>
+<a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/zz9.jpg">
+  <img class="rounded" src="file:///E:/3rd/New%20folder/38.jpg" />
+</a>
+</a>
+<a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/zz10.jpg">
+  <img class="rounded" src="file:///E:/3rd/New%20folder/39.jpg" />
+</a>
+<a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/zz11.jpg">
+    <img class="rounded" src="file:///E:/3rd/New%20folder/40.jpg" />
+  </a>
+  <a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/zz12.jpg">
+    <img class="rounded" src="file:///E:/3rd/New%20folder/41.jpg" />
+  </a>
+  <a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/zz13.jpg">
+    <img class="rounded" src="file:///E:/3rd/New%20folder/42.jpg" />
+  </a>
+  <a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/zz14.jpg">
+    <img class="rounded" src="file:///E:/3rd/New%20folder/43.jpg" />
+  </a>
+  <a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/zz15.jpg">
+    <img class="rounded" src="file:///E:/3rd/New%20folder/44.jpg" />
+  </a>
+  <a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/zz16.jpg">
+    <img class="rounded" src="file:///E:/3rd/New%20folder/45.jpg" />
+  </a>
+  <a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/zz17.jpg">
+    <img class="rounded" src="file:///E:/3rd/New%20folder/46.jpg" />
+  </a>
+  <a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/zz18.jpg">
+    <img class="rounded" src="file:///E:/3rd/New%20folder/47.jpg" />
+  </a>
+  <a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/zz19.jpg">
+    <img class="rounded" src="file:///E:/3rd/New%20folder/48.jpg" />
+  </a>
+  <a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/zz20.jpg">
+    <img class="rounded" src="file:///E:/3rd/New%20folder/49.jpg" />
+  </a>
+  <a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/zz21.jpg">
+    <img class="rounded" src="file:///E:/3rd/New%20folder/50.jpg" />
+  </a>
+  <a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/zz22.jpg">
+    <img class="rounded" src="file:///E:/3rd/New%20folder/51.jpg" />
+  </a>
+  <a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/zz23.jpg">
+    <img class="rounded" src="file:///E:/3rd/New%20folder/52.jpg" />
+  </a>
+  <a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/zz24.jpg">
+    <img class="rounded" src="file:///E:/3rd/New%20folder/53.jpg" />
+  </a>
+  <a data-fancybox="gallery" href="file:///E:/New%20folder%20(2)/zz25.jpg">
+    <img class="rounded" src="file:///E:/3rd/New%20folder/54.jpg" />
+  </a>
+      </div>
+    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js"></script>
+    <script>
+      //  JavaScript will go here
+    </script>
+  </body>
+</html>
